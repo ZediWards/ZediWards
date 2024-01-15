@@ -9,7 +9,7 @@
 </br>
 ### Technologies
 ![React.js](https://img.shields.io/badge/React.js--%2361dafb)
-![Next.js](https://img.shields.io/badge/Gatsby.js--%23000000)
+![Next.js](https://img.shields.io/badge/Next.js--%23000000)
 ![Node.js](https://img.shields.io/badge/Node.js--%2383cd29)
 ![Express.js](https://img.shields.io/badge/Express.js--%23f5f5f5)
 ![Docker](https://img.shields.io/badge/Docker--%23019bc6)
